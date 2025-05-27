@@ -1,2 +1,2 @@
-# desafio_super_trunfo
-desafio_super_trunfo_estacio
+# desafio_cartas_super_trunfo
+desafio_cartas_super_trunfo_estacio
